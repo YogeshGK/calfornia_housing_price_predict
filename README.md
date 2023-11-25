@@ -87,7 +87,14 @@ expressed in hundreds of thousands of dollars ($100,000).
             4. It can be interpreted as the proportion of the variance in the dependent variable (y) that is captured by the linear model.
 
 
-​
+## Observations
+        After analyzing the individual feature in the dataset with the target variable, housing price in this case, below scatter plots are created
+
+![App Screenshot](./results/features vs price_v2.png)
+
+        Below are the R2 scores and mean squared errors(SME) for individual features.
+
+![App Screenshot](./results.r2_errors.png)
 
 
 
