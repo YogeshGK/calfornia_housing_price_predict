@@ -1,5 +1,5 @@
 <!-- ![plot](./result/cal_housing.jpeg) -->
-<img src="./result/cal_housing.jpeg" alt="California" width="800" height="400">
+<img src="./result/cal_housing.jpeg" alt="California" width="800">
 
 # California Housing Price Prediction
 
