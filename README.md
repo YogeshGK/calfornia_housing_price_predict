@@ -89,11 +89,9 @@ expressed in hundreds of thousands of dollars ($100,000).
 
 ## Observations
         After analyzing the individual feature in the dataset with the target variable, housing price in this case, below scatter plots are created
-
 ![App Screenshot](./result/features%20vs%20price_v2.png)
 
         Below are the R2 scores and mean squared errors(SME) for individual features.
-
 ![App Screenshot](./result/r2_errors.png)
 
 
